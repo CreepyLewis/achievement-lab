@@ -2,6 +2,7 @@
 
 > A complete guide to earning every GitHub achievement — from beginner to platinum!
 
+
 ![GitHub stars](https://img.shields.io/github/stars/CreepyLewis/github-achievement-lab?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/CreepyLewis/github-achievement-lab?style=social)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
