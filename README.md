@@ -1,4 +1,4 @@
-# 🏆 GitHub Achievement Lab
+# 🏆 GitHub Achievement 
 
 > A complete guide to earning every GitHub achievement — from beginner to platinum!
 
